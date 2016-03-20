@@ -1,1 +1,5 @@
-test aja
+#!/bin/bash
+
+
+echo Tes jalanin skrip...
+echo Selesai
