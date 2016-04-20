@@ -1,6 +1,8 @@
-@echo off
-echo "Halo Ini file ke dua"
-echo "<?php"
+<?php
 echo "Masukan Data Anda"
-echo "Jika data anda sudah benar, jangan Lupa tekan buttion OK"
-echo "?>"
+echo "Nama Anda"
+echo "Npm Anda"
+echo "Kelas Anda"
+echo "Jurusan Anda"
+echo "Jika sudah data yang dimasukan sudah BENAR, Tekan Tombol OK"
+?>
